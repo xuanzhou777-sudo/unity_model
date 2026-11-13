@@ -1,0 +1,6 @@
+interface:
+  display_name: "Unity 资源制作与续做"
+  short_description: "写实低面数资源、FBX材质动画交付、逐项验收与保留文件的中断恢复流程"
+  default_prompt: "使用 $unity-asset-production，读取最新检查点，按已确认需求继续制作并验证 Unity 资源。"
+policy:
+  allow_implicit_invocation: true

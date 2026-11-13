@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "recorded_at": "REPLACE_WITH_ISO8601_TIMEZONE",
+  "project_root": "ABSOLUTE_PATH",
+  "asset_id": "01",
+  "spec_version": "v001",
+  "stage": "fbx_export",
+  "status": "queued",
+  "input_files": [],
+  "output_files": [],
+  "tool": {
+    "name": "",
+    "version": "",
+    "command": "",
+    "cwd": "",
+    "pid": null,
+    "started_at": null,
+    "log_path": ""
+  },
+  "checks": {
+    "geometry": {
+      "status": "pending",
+      "evidence": []
+    },
+    "pbr": {
+      "status": "pending",
+      "evidence": []
+    },
+    "scale": {
+      "status": "pending",
+      "evidence": []
+    },
+    "variant": {
+      "status": "pending",
+      "evidence": []
+    },
+    "ammo": {
+      "status": "pending",
+      "evidence": []
+    },
+    "inspect": {
+      "status": "pending",
+      "evidence": []
+    },
+    "explode": {
+      "status": "pending",
+      "evidence": []
+    },
+    "reload": {
+      "status": "pending",
+      "evidence": []
+    },
+    "fire": {
+      "status": "pending",
+      "evidence": []
+    },
+    "thumbnail": {
+      "status": "pending",
+      "evidence": []
+    },
+    "detail": {
+      "status": "pending",
+      "evidence": []
+    },
+    "intro": {
+      "status": "pending",
+      "evidence": []
+    },
+    "collider": {
+      "status": "pending",
+      "evidence": []
+    },
+    "unity": {
+      "status": "pending",
+      "evidence": []
+    },
+    "final": {
+      "status": "pending",
+      "evidence": []
+    }
+  },
+  "errors": [],
+  "do_not_repeat": [],
+  "next_action": {
+    "command": "",
+    "prerequisites": []
+  },
+  "budget_note": "历史额度不能作为实时额度"
+}

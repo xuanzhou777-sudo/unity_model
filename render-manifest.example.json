@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "project_root": "<absolute_project_root>",
+  "asset_id": "<catalog_id>",
+  "model": {"path": "<frozen_model.glb>", "sha256": "<sha256>"},
+  "required_views": ["Hero", "Side", "Front", "Top"],
+  "renders": [
+    {
+      "view": "Hero",
+      "path": "<renders/Hero.png>",
+      "asset_id": "<catalog_id>",
+      "model_sha256": "<sha256>",
+      "sha256": "<png_sha256>",
+      "width": 1900,
+      "height": 1100,
+      "pose": "Rest",
+      "renderer": "<tool_and_version>",
+      "camera": "<recorded_camera_configuration>"
+    },
+    {
+      "view": "Side", "path": "<renders/Side.png>",
+      "asset_id": "<catalog_id>", "model_sha256": "<sha256>",
+      "sha256": "<png_sha256>", "width": 1900, "height": 1100,
+      "pose": "Rest", "renderer": "<tool_and_version>",
+      "camera": "<recorded_camera_configuration>"
+    },
+    {
+      "view": "Front", "path": "<renders/Front.png>",
+      "asset_id": "<catalog_id>", "model_sha256": "<sha256>",
+      "sha256": "<png_sha256>", "width": 1900, "height": 1100,
+      "pose": "Rest", "renderer": "<tool_and_version>",
+      "camera": "<recorded_camera_configuration>"
+    },
+    {
+      "view": "Top", "path": "<renders/Top.png>",
+      "asset_id": "<catalog_id>", "model_sha256": "<sha256>",
+      "sha256": "<png_sha256>", "width": 1900, "height": 1100,
+      "pose": "Rest", "renderer": "<tool_and_version>",
+      "camera": "<recorded_camera_configuration>"
+    }
+  ]
+}
